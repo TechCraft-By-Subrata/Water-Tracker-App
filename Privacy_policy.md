@@ -73,7 +73,7 @@ When a permission is requested, the device will display a system prompt. You can
 
 ## Contact
 
-If you have questions or requests about this privacy policy or your data, email: subraatakumar+secure-contacts@gmail.com
+If you have questions or requests about this privacy policy or your data, email: subraatakumar+watertracker@gmail.com
 
 ---
 Last updated: 2026-02-16
